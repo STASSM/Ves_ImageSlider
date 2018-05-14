@@ -2,7 +2,7 @@
     "name": "venustheme/module-imageslider",
     "description": "N/A",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0|~7.0.26",
+        "php": "~5.5.0|~5.6.0|~7.0.0|~7.0.26|~7.1.0",
         "venustheme/module-all": "1.0.2",
         "magento/module-store": ">=100.0.0",
         "magento/module-theme": ">=100.0.0",
